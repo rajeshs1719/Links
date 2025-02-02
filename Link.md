@@ -1,3 +1,57 @@
+<details>
+  <summary>AI for Image Generation</summary>
+
+  <h3>Free</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Website/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DALL·E 2</strong></td>
+        <td><a href="https://openai.com/dall-e">OpenAI DALL·E</a></td>
+        <td>AI that generates images from text descriptions. Offers a free tier with limited credits.</td>
+      </tr>
+      <tr>
+        <td><strong>Craiyon</strong></td>
+        <td><a href="https://www.craiyon.com">Craiyon</a></td>
+        <td>A free, open-source version of DALL·E 2. Generates images from text prompts.</td>
+      </tr>
+      <!-- Add more tools here -->
+    </tbody>
+  </table>
+
+  <h3>Subscription</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Website/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DALL·E 2 (Paid)</strong></td>
+        <td><a href="https://openai.com/dall-e">OpenAI DALL·E 2</a></td>
+        <td>Full access to OpenAI’s DALL·E 2 with more credits and higher-resolution images.</td>
+      </tr>
+      <tr>
+        <td><strong>MidJourney</strong></td>
+        <td><a href="https://www.midjourney.com">MidJourney</a></td>
+        <td>A creative tool that allows users to generate high-quality images from text prompts. Subscription-based.</td>
+      </tr>
+      <!-- Add more tools here -->
+    </tbody>
+  </table>
+
+</details>
+
+
 # AI for Image Generation
 
 ## Free
