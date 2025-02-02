@@ -1,7 +1,6 @@
 # AI for Image Generation
 
 ## Free
-# Free AI Image Generation Tools
 | **Tool**             | **Website/Link**                                                       | **Description**                                                                 |
 |----------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | **DALL·E 2**         | [OpenAI DALL·E](https://openai.com/dall-e)                            | AI that generates images from text descriptions. Offers a free tier with limited credits.|
@@ -27,7 +26,6 @@
 
 
 ## Subsciption
-# Paid AI Image Generation Tools
 | **Tool**                     | **Website/Link**                                                       | **Description**                                                                 |
 |------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | **DALL·E 2 (Paid)**           | [OpenAI DALL·E 2](https://openai.com/dall-e)                          | Full access to OpenAI’s DALL·E 2 with more credits and higher-resolution images.|
