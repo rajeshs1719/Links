@@ -21,7 +21,96 @@
         <td><a href="https://www.craiyon.com">Craiyon</a></td>
         <td>A free, open-source version of DALL·E 2. Generates images from text prompts.</td>
       </tr>
-      <!-- Add more tools here -->
+      <tr>
+        <td><strong>DeepAI Text to Image</strong></td>
+        <td><a href="https://deepai.org/machine-learning-model/text2img">DeepAI Text to Image</a></td>
+        <td>Text-to-image generator that allows users to create unique images using AI. </td>
+      </tr>
+      <tr>
+        <td><strong>Artbreeder</strong></td>
+        <td><a href="https://www.artbreeder.com">Artbreeder</a></td>
+        <td>Allows users to create and remix images through AI blending, mainly focused on portraits and landscapes.</td>
+      </tr>     
+      <tr>
+        <td><strong>NightCafe</strong></td>
+        <td><a href="https://creator.nightcafe.studio">NightCafe</a></td>
+        <td>Create AI-generated artwork using various neural networks and art styles. Offers free daily credits.</td>
+      </tr>
+      <tr>
+        <td><strong>Runway ML</strong></td>
+        <td><a href="https://runwayml.com">Runway ML</a></td>
+        <td>AI-powered creative tools for image generation and editing. Offers free trials. </td>
+      </tr> 
+      <tr>
+        <td><strong>Pixray</strong></td>
+        <td><a href="https://pixray.github.io/">Pixray</a></td>
+        <td> Text-to-image generator offering different styles and customization options.    </td>
+      </tr>
+      <tr>
+        <td><strong>Dream by Wombo</strong></td>
+        <td><a href="https://dream.ai/create">Dream by Wombo</a></td>
+        <td>An easy-to-use AI that generates digital artwork from text prompts, offering free and subscription-based options.</td>
+      </tr>
+      <tr>
+        <td><strong>This Person Does Not Exist</strong></td>
+        <td><a href="https://thispersondoesnotexist.com">This Person Does Not Exist</a></td>
+        <td>AI that generates lifelike human faces, based on GAN (Generative Adversarial Network).</td>
+      </tr>
+      <tr>
+        <td><strong>PaintsChainer</strong></td>
+        <td><a href=" https://paintschainer.preferred.tech/index_en.html">PaintsChainer</a></td>
+        <td>AI-powered coloring tool for sketches. The free version offers basic features.   </td>
+      </tr>
+      <tr>
+        <td><strong>StarryAI</strong></td>
+        <td><a href=" https://www.starryai.com">StarryAI</a></td>
+        <td>Text-to-image generator with various artistic styles. Offers a free version with limited credits.</td>
+      </tr>
+      <tr>
+        <td><strong>Deep Dream Generator</strong></td>
+        <td><a href=" https://deepdreamgenerator.com">Deep Dream Generator</a></td>
+        <td>Generates surreal, dream-like images from your photos and text prompts.   </td>
+      </tr>
+      <tr>
+        <td><strong>AI Picasso</strong></td>
+        <td><a href="https://www.ai-picasso.com">AI Picasso</a></td>
+        <td>Free tool that generates Picasso-style artworks from your text descriptions.   </td>
+      </tr>
+      <tr>
+        <td><strong>Fotor AI Art Generator</strong></td>
+        <td><a href=" https://www.fotor.com/features/ai-image-generator/">Fotor AI Art Generator</a></td>
+        <td>Create AI-generated images from text prompts. Limited free access with premium upgrades.</td>
+      </tr>
+      <tr>
+        <td><strong>Zyro AI Image Generator</strong></td>
+        <td><a href=" https://zyro.com/tools/ai-image-generator">Zyro AI Image Generator</a></td>
+        <td>Create unique images using AI based on your description. Free to use with limited features.</td>
+      </tr>
+      <tr>
+        <td><strong>BigSleep</strong></td>
+        <td><a href=" https://big-sleep.github.io/">BigSleep</a></td>
+        <td>Generates images based on text prompts using Python and deep learning models, fully open-source.</td>
+      </tr>
+      <tr>
+        <td><strong>DreamStudio</strong></td>
+        <td><a href=" https://beta.dreamstudio.ai">DreamStudio</a></td>
+        <td>A text-to-image tool powered by Stable Diffusion. Offers a free credit system. </td>
+      </tr>
+      <tr>
+        <td><strong>Artflow</strong></td>
+        <td><a href=" https://www.artflow.ai">Artflow</a></td>
+        <td>AI art generator for turning prompts into creative artworks. Offers a free tier with limited access.</td>
+      </tr>
+      <tr>
+        <td><strong>AI Gahaku</strong></td>
+        <td><a href=" https://ai-art.tokyo/en/">AI Gahaku</a></td>
+        <td>Generates a portrait artwork based on your photo and applies various artistic styles. Free to use.</td>
+      </tr>
+      <tr>
+        <td><strong>Runway’s Stable Diffusion</strong></td>
+        <td><a href=" https://runwayml.com/stable-diffusion">Runway’s Stable Diffusion</a></td>
+        <td>Use Stable Diffusion’s text-to-image model. Free to try with limitations.  </td>
+      </tr>
     </tbody>
   </table>
 
