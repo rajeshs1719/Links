@@ -138,35 +138,156 @@
   </table>
 
 </details>
+<details>
+  <summary><h1>AI for Image Generation</h1></summary>
+  <h3>Free</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Website/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DALL·E 2</strong></td>
+        <td><a href="https://openai.com/dall-e">OpenAI DALL·E</a></td>
+        <td>AI that generates images from text descriptions. Offers a free tier with limited credits.</td>
+      </tr>
+      <tr>
+        <td><strong>Craiyon</strong></td>
+        <td><a href="https://www.craiyon.com">Craiyon</a></td>
+        <td>A free, open-source version of DALL·E 2. Generates images from text prompts.</td>
+      </tr>
+      <tr>
+        <td><strong>DeepAI Text to Image</strong></td>
+        <td><a href="https://deepai.org/machine-learning-model/text2img">DeepAI Text to Image</a></td>
+        <td>Text-to-image generator that allows users to create unique images using AI. </td>
+      </tr>
+      <tr>
+        <td><strong>Artbreeder</strong></td>
+        <td><a href="https://www.artbreeder.com">Artbreeder</a></td>
+        <td>Allows users to create and remix images through AI blending, mainly focused on portraits and landscapes.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>Subscription</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Website/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DALL·E 2 (Paid)</strong></td>
+        <td><a href="https://openai.com/dall-e">OpenAI DALL·E 2</a></td>
+        <td>Full access to OpenAI’s DALL·E 2 with more credits and higher-resolution images.</td>
+      </tr>
+      <tr>
+        <td><strong>MidJourney</strong></td>
+        <td><a href="https://www.midjourney.com">MidJourney</a></td>
+        <td>A creative tool that allows users to generate high-quality images from text prompts. Subscription-based.</td>
+      </tr>
+      <tr>
+        <td><strong>Artbreeder (Premium)</strong></td>
+        <td><a href="https://www.artbreeder.com">Artbreeder</a></td>
+        <td>Allows for more advanced control over image creation with the premium version.</td>
+      </tr>
+      <tr>
+        <td><strong>Deep Dream Generator (Premium)</strong></td>
+        <td><a href="https://deepdreamgenerator.com">Deep Dream Generator</a></td>
+        <td>Access higher resolution and advanced image effects with premium features.</td>
+      </tr>
+      <tr>
+        <td><strong>Runway ML (Paid)</strong></td>
+        <td><a href="https://runwayml.com">Runway ML</a></td>
+        <td>Full access to the platform with advanced AI tools for creators and image generation.</td>
+      </tr>
+      <tr>
+        <td><strong>Wombo Dream (Premium)</strong></td>
+        <td><a href="https://dream.ai/create">Wombo Dream</a></td>
+        <td>Enhanced features and faster image generation with a premium subscription.</td>
+      </tr>
+      <tr>
+        <td><strong>NightCafe (Paid)</strong></td>
+        <td><a href="https://creator.nightcafe.studio">NightCafe</a></td>
+        <td>Unlocks additional credits, style options, and resolution upgrades.</td>
+      </tr>
+      <tr>
+        <td><strong>Fotor AI Art Generator (Paid)</strong></td>
+        <td><a href="https://www.fotor.com/features/ai-image-generator/">Fotor AI Art Generator</a></td>
+        <td>Subscription unlocks premium features like enhanced styles and resolution.</td>
+      </tr>
+      <tr>
+        <td><strong>StarryAI (Paid)</strong></td>
+        <td><a href="https://www.starryai.com">StarryAI</a></td>
+        <td>Offers unlimited credits for premium subscribers with no daily limit.</td>
+      </tr>
+      <tr>
+        <td><strong>DreamStudio by Stability AI</strong></td>
+        <td><a href="https://beta.dreamstudio.ai">DreamStudio</a></td>
+        <td>The official platform for Stable Diffusion, offering full access with premium options.</td>
+      </tr>
+      <tr>
+        <td><strong>Zyro AI Image Generator (Paid)</strong></td>
+        <td><a href="https://zyro.com/tools/ai-image-generator">Zyro AI Image Generator</a></td>
+        <td>Unlocks higher-quality image generation and extended features for paid users.</td>
+      </tr>
+      <tr>
+        <td><strong>Playform.io</strong></td>
+        <td><a href="https://playform.io">Playform.io</a></td>
+        <td>AI-driven art creation with unique style models. Paid tiers unlock additional styles and higher-resolution options.</td>
+      </tr>
+      <tr>
+        <td><strong>ArtStation AI Tools</strong></td>
+        <td><a href="https://www.artstation.com">ArtStation AI Tools</a></td>
+        <td>AI-powered tools for creating highly detailed artwork, geared for professionals.</td>
+      </tr>
+      <tr>
+        <td><strong>DeepAI (Subscription)</strong></td>
+        <td><a href="https://deepai.org">DeepAI</a></td>
+        <td>Offers advanced features and priority access to image generation with a subscription.</td>
+      </tr>
+      <tr>
+        <td><strong>VQGAN+CLIP (Paid Options)</strong></td>
+        <td><a href="https://vqganclip.com">VQGAN+CLIP</a></td>
+        <td>While free for basic use, paid plans offer access to more powerful resources for image generation.</td>
+      </tr>
+      <tr>
+        <td><strong>Mona AI</strong></td>
+        <td><a href="https://mona.ai">Mona AI</a></td>
+        <td>Subscription-based platform that specializes in AI-generated artworks with high resolution.</td>
+      </tr>
+      <tr>
+        <td><strong>Generated Photos (Premium)</strong></td>
+        <td><a href="https://generated.photos">Generated Photos</a></td>
+        <td>Offers professional and realistic AI-generated faces, available via subscription.</td>
+      </tr>
+      <tr>
+        <td><strong>The Grid (Paid)</strong></td>
+        <td><a href="https://thegrid.io">The Grid</a></td>
+        <td>AI-driven design tool for image and content generation, with subscription access.</td>
+      </tr>
+      <tr>
+        <td><strong>Pixelz AI</strong></td>
+        <td><a href="https://www.pixelz.ai">Pixelz AI</a></td>
+        <td>A platform with AI-assisted image editing and generation, offering subscription models for professional users.</td>
+      </tr>
+      <tr>
+        <td><strong>Artflow AI (Pro)</strong></td>
+        <td><a href="https://www.artflow.ai">Artflow AI</a></td>
+        <td>Paid version provides faster and more accurate image generation with access to premium features.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 
-# AI for Image Generation
-
-
-
-## Subsciption
-| **Tool**                     | **Website/Link**                                                       | **Description**                                                                 |
-|------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| **DALL·E 2 (Paid)**           | [OpenAI DALL·E 2](https://openai.com/dall-e)                          | Full access to OpenAI’s DALL·E 2 with more credits and higher-resolution images.|
-| **MidJourney**                | [MidJourney](https://www.midjourney.com)                              | A creative tool that allows users to generate high-quality images from text prompts. Subscription-based.|
-| **Artbreeder (Premium)**      | [Artbreeder](https://www.artbreeder.com)                              | Allows for more advanced control over image creation with the premium version.|
-| **Deep Dream Generator (Premium)** | [Deep Dream Generator](https://deepdreamgenerator.com)             | Access higher resolution and advanced image effects with premium features.      |
-| **Runway ML (Paid)**          | [Runway ML](https://runwayml.com)                                     | Full access to the platform with advanced AI tools for creators and image generation.|
-| **Wombo Dream (Premium)**     | [Wombo Dream](https://dream.ai/create)                               | Enhanced features and faster image generation with a premium subscription.     |
-| **NightCafe (Paid)**          | [NightCafe](https://creator.nightcafe.studio)                        | Unlocks additional credits, style options, and resolution upgrades.            |
-| **Fotor AI Art Generator (Paid)** | [Fotor AI Art Generator](https://www.fotor.com/features/ai-image-generator/) | Subscription unlocks premium features like enhanced styles and resolution.     |
-| **StarryAI (Paid)**           | [StarryAI](https://www.starryai.com)                                  | Offers unlimited credits for premium subscribers with no daily limit.          |
-| **DreamStudio by Stability AI** | [DreamStudio](https://beta.dreamstudio.ai)                         | The official platform for Stable Diffusion, offering full access with premium options.|
-| **Zyro AI Image Generator (Paid)** | [Zyro AI Image Generator](https://zyro.com/tools/ai-image-generator) | Unlocks higher-quality image generation and extended features for paid users. |
-| **Playform.io**               | [Playform.io](https://playform.io)                                    | AI-driven art creation with unique style models. Paid tiers unlock additional styles and higher-resolution options.|
-| **ArtStation AI Tools**       | [ArtStation AI Tools](https://www.artstation.com)                    | AI-powered tools for creating highly detailed artwork, geared for professionals.|
-| **DeepAI (Subscription)**     | [DeepAI](https://deepai.org)                                          | Offers advanced features and priority access to image generation with a subscription.|
-| **VQGAN+CLIP (Paid Options)** | [VQGAN+CLIP](https://vqganclip.com)                                   | While free for basic use, paid plans offer access to more powerful resources for image generation.|
-| **Mona AI**                   | [Mona AI](https://mona.ai)                                            | Subscription-based platform that specializes in AI-generated artworks with high resolution.|
-| **Generated Photos (Premium)**| [Generated Photos](https://generated.photos)                         | Offers professional and realistic AI-generated faces, available via subscription.|
-| **The Grid (Paid)**           | [The Grid](https://thegrid.io)                                        | AI-driven design tool for image and content generation, with subscription access.|
-| **Pixelz AI**                 | [Pixelz AI](https://www.pixelz.ai)                                    | A platform with AI-assisted image editing and generation, offering subscription models for professional users.|
-| **Artflow AI (Pro)**          | [Artflow AI](https://www.artflow.ai)                                  | Paid version provides faster and more accurate image generation with access to premium features.|
 
 
 
