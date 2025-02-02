@@ -148,6 +148,87 @@
 | **Jina AI**           | [Jina AI](https://www.jina.ai)                                         | AI-powered tool that aids in writing code, debugging, and optimizing algorithms.|
 
 
+
+# Website for Job Related
+## Free
+| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
+|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Final Round AI** | [Final Round AI](https://www.finalroundai.com/)     | AI-powered mock interview platform with feedback and prep materials.            |
+| **Jobscan**       | [Jobscan](https://www.jobscan.co)                   | AI-driven resume optimization and job application tools for job seekers.       |
+| **Rezi**          | [Rezi](https://www.rezi.ai)                         | AI-powered resume builder with personalized feedback for job applications.      |
+| **LinkedIn**      | [LinkedIn](https://www.linkedin.com)                | Professional networking platform with AI-powered job search and recommendations. |
+| **Hiretual**      | [Hiretual](https://www.hiretual.com)                | AI-based recruiting tool for sourcing candidates and job matching.              |
+| **Wozber**        | [Wozber](https://www.wozber.com)                    | AI-powered resume builder that helps create ATS-friendly resumes.               |
+| **Resumake**      | [Resumake](https://resumake.io)                     | Simple and free resume builder powered by AI with customizable templates.       |
+| **Canva**         | [Canva](https://www.canva.com)                      | Graphic design tool with free AI-powered templates for resumes and portfolios.  |
+| **JobHero**       | [JobHero](https://www.jobhero.com)                  | AI-driven job search and resume builder tool with personalized advice.          |
+| **Glassdoor**     | [Glassdoor](https://www.glassdoor.com)              | AI-based company and salary search tool for job seekers.                        |
+| **Indeed**        | [Indeed](https://www.indeed.com)                    | Job search engine powered by AI with recommendations based on profile and search history. |
+| **Zety**          | [Zety](https://www.zety.com)                        | Free AI-powered resume builder with professional templates and writing tips.    |
+| **Skillshare**    | [Skillshare](https://www.skillshare.com)            | Learn AI-based productivity and career skills through classes and workshops.    |
+| **AllyO**         | [AllyO](https://www.allyo.com)                      | AI-powered recruitment assistant for streamlining application processes.        |
+| **Vervoe**        | [Vervoe](https://www.vervoe.com)                    | AI-driven hiring platform with customizable skill assessments.                  |
+| **Upwork**        | [Upwork](https://www.upwork.com)                    | AI-powered freelance job search engine for various industries.                 |
+| **Guru**          | [Guru](https://www.guru.com)                        | Freelance marketplace powered by AI to match freelancers with job postings.     |
+| **AngelList**     | [AngelList](https://angel.co)                       | Startup job board using AI to recommend opportunities based on skills and interests. |
+| **HireVue**       | [HireVue](https://www.hirevue.com)                   | AI video interview platform for job applicants, with automated assessments and feedback. |
+
+## Subscription
+| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
+|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Hiretual Pro**  | [Hiretual](https://www.hiretual.com)                | Advanced AI recruitment platform with sourcing, candidate engagement, and analytics. |
+| **Jobscan Premium** | [Jobscan](https://www.jobscan.co)                   | Unlocks additional features for resume matching and job search optimization with premium plan. |
+| **Rezi Premium**  | [Rezi](https://www.rezi.ai)                         | Access to AI-driven resume feedback and customization options with a premium subscription. |
+| **LinkedIn Premium** | [LinkedIn](https://www.linkedin.com)               | Paid version offers advanced AI features for job search and networking opportunities. |
+| **Hired**         | [Hired](https://www.hired.com)                      | AI-driven recruitment platform for tech and sales professionals, with premium matching and job opportunities. |
+| **ZipRecruiter**  | [ZipRecruiter](https://www.ziprecruiter.com)        | Job search platform powered by AI with advanced job recommendations and hiring tools. |
+| **Workable**      | [Workable](https://www.workable.com)                | AI-powered recruiting and applicant tracking system with premium options.      |
+| **Vervoe Premium** | [Vervoe](https://www.vervoe.com)                    | Unlocks advanced AI-powered skill assessment features for employers and job seekers. |
+| **Greenhouse**    | [Greenhouse](https://www.greenhouse.io)             | AI-powered recruiting platform with advanced applicant tracking and analytics.  |
+| **Leverage**      | [Leverage](https://www.leverage.com)                | AI recruitment tool for talent sourcing, interview scheduling, and candidate engagement. |
+| **SeekOut**       | [SeekOut](https://www.seekout.io)                   | AI-driven talent search and recruitment platform for hiring diverse teams.      |
+| **Textio**        | [Textio](https://www.textio.com)                    | AI-powered writing tool that enhances job descriptions to attract diverse candidates. |
+| **VMock**         | [VMock](https://www.vmock.com)                      | AI resume feedback tool that helps optimize resumes for job applications.        |
+| **The Muse**      | [The Muse](https://www.themuse.com)                  | Career coaching platform with AI recommendations for job seekers and career advice. |
+| **CleverHire**    | [CleverHire](https://www.cleverhire.com)            | AI platform offering career coaching, resume building, and job search services.  |
+| **Koru**          | [Koru](https://www.koru.us)                         | Subscription service for using AI to optimize hiring processes and assess candidates’ strengths. |
+| **Outreach**      | [Outreach](https://www.outreach.io)                 | AI-driven sales recruitment platform for automated outreach and candidate management. |
+| **HireVue Pro**   | [HireVue](https://www.hirevue.com)                   | Premium access to HireVue’s AI-driven video interviewing platform with detailed analytics and candidate insights. |
+| **Jobvite**       | [Jobvite](https://www.jobvite.com)                  | AI-powered applicant tracking system with premium options for optimizing hiring pipelines. |
+| **TalentSonar**   | [TalentSonar](https://www.talentsonar.com)           | AI-powered recruiting platform focused on improving diversity and candidate engagement. |
+
+
+# Plagiarism Checker Tools
+## Free 
+| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
+|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Quetext**      | [Quetext](https://www.quetext.com)                  | Free plagiarism checker with a simple interface, offers basic checks with limited word count. |
+| **Plagscan**     | [Plagscan](https://www.plagscan.com)                | Plagiarism detection tool offering a limited free version to check small amounts of text. |
+| **Plagiarism Checker (Small SEO Tools)** | [Small SEO Tools](https://smallseotools.com/plagiarism-checker/) | A free tool to check plagiarism by pasting text or uploading documents. |
+| **Duplichecker** | [Duplichecker](https://www.duplichecker.com)        | Free plagiarism detection tool with daily checks for small amounts of text (1000 words). |
+| **Plagiarism Checker by PrePostSEO** | [PrePostSEO](https://www.prepostseo.com/plagiarism-checker) | Offers a free plagiarism checker with a simple interface for content verification. |
+| **PaperRater**   | [PaperRater](https://www.paperrater.com)            | Free plagiarism checker and grammar checker for students and writers. |
+| **PlagiarismDetector** | [Plagiarism Detector](https://plagiarismdetector.net) | A simple free plagiarism checker for small documents. |
+| **Search Engine Reports Plagiarism Checker** | [Search Engine Reports](https://searchenginereports.net/plagiarism-checker) | Free tool with limited checks to scan content for plagiarism. |
+| **PrePostSEO Plagiarism Checker** | [PrePostSEO](https://www.prepostseo.com/plagiarism-checker) | Free tool with a limit on words per search, effective for quick plagiarism checks. |
+| **Scribbr**      | [Scribbr](https://www.scribbr.com/plagiarism-checker/) | Offers a free plagiarism checker with basic analysis and suggestions for citation. |
+
+
+## Subscription
+| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
+|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Turnitin**     | [Turnitin](https://www.turnitin.com)                | Industry-leading plagiarism detection tool used by universities and publishers. |
+| **Copyscape**    | [Copyscape](https://www.copyscape.com)              | Premium plagiarism checker for websites and content with detailed reports. |
+| **Grammarly**    | [Grammarly](https://www.grammarly.com)              | Offers a plagiarism checker as part of its premium subscription, including citation suggestions. |
+| **Unicheck**     | [Unicheck](https://unicheck.com)                   | Professional plagiarism detection service with integrations for educational institutions. |
+| **Plagiarism Checker X** | [Plagiarism Checker X](https://plagiarismcheckerx.com) | Paid plagiarism tool offering in-depth plagiarism reports and compatibility with multiple file formats. |
+| **Scribbr**      | [Scribbr](https://www.scribbr.com/plagiarism-checker/) | Premium plagiarism checker with advanced scanning capabilities and detailed reports. |
+| **Quetext (Pro)**| [Quetext](https://www.quetext.com)                  | Pro version offers extended plagiarism detection, with unlimited checks and more advanced features. |
+| **DupliChecker (Premium)** | [DupliChecker](https://www.duplichecker.com) | Paid version removes word limit restrictions and offers more advanced plagiarism reports. |
+| **Plagscan (Paid)** | [Plagscan](https://www.plagscan.com)              | Subscription-based tool for in-depth plagiarism detection and detailed reports for institutions and businesses. |
+| **iThenticate**  | [iThenticate](https://www.ithenticate.com)          | Plagiarism checker primarily used by publishers, researchers, and academics to scan scholarly work. |
+
+
 # AI for Productivity
 ## Free 
 | **Tool**              | **Website/Link**                                                      | **Description**                                                               |
@@ -239,84 +320,3 @@
 | **Buxfer**       | [Buxfer](https://www.buxfer.com)                    | AI-powered budgeting and financial planning tool with shared account features for families. |
 | **SmartAssets**  | [SmartAssets](https://www.smartasset.com)           | AI-driven platform offering personalized advice on retirement, taxes, loans, and more. |
 | **Ellevest**     | [Ellevest](https://www.ellevest.com)                | Investment platform specifically for women, using AI to tailor financial plans and investments. |
-
-
-# Website for Job Related
-## Free
-| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
-|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Final Round AI** | [Final Round AI](https://www.finalroundai.com/)     | AI-powered mock interview platform with feedback and prep materials.            |
-| **Jobscan**       | [Jobscan](https://www.jobscan.co)                   | AI-driven resume optimization and job application tools for job seekers.       |
-| **Rezi**          | [Rezi](https://www.rezi.ai)                         | AI-powered resume builder with personalized feedback for job applications.      |
-| **LinkedIn**      | [LinkedIn](https://www.linkedin.com)                | Professional networking platform with AI-powered job search and recommendations. |
-| **Hiretual**      | [Hiretual](https://www.hiretual.com)                | AI-based recruiting tool for sourcing candidates and job matching.              |
-| **Wozber**        | [Wozber](https://www.wozber.com)                    | AI-powered resume builder that helps create ATS-friendly resumes.               |
-| **Resumake**      | [Resumake](https://resumake.io)                     | Simple and free resume builder powered by AI with customizable templates.       |
-| **Canva**         | [Canva](https://www.canva.com)                      | Graphic design tool with free AI-powered templates for resumes and portfolios.  |
-| **JobHero**       | [JobHero](https://www.jobhero.com)                  | AI-driven job search and resume builder tool with personalized advice.          |
-| **Glassdoor**     | [Glassdoor](https://www.glassdoor.com)              | AI-based company and salary search tool for job seekers.                        |
-| **Indeed**        | [Indeed](https://www.indeed.com)                    | Job search engine powered by AI with recommendations based on profile and search history. |
-| **Zety**          | [Zety](https://www.zety.com)                        | Free AI-powered resume builder with professional templates and writing tips.    |
-| **Skillshare**    | [Skillshare](https://www.skillshare.com)            | Learn AI-based productivity and career skills through classes and workshops.    |
-| **AllyO**         | [AllyO](https://www.allyo.com)                      | AI-powered recruitment assistant for streamlining application processes.        |
-| **Vervoe**        | [Vervoe](https://www.vervoe.com)                    | AI-driven hiring platform with customizable skill assessments.                  |
-| **Upwork**        | [Upwork](https://www.upwork.com)                    | AI-powered freelance job search engine for various industries.                 |
-| **Guru**          | [Guru](https://www.guru.com)                        | Freelance marketplace powered by AI to match freelancers with job postings.     |
-| **AngelList**     | [AngelList](https://angel.co)                       | Startup job board using AI to recommend opportunities based on skills and interests. |
-| **HireVue**       | [HireVue](https://www.hirevue.com)                   | AI video interview platform for job applicants, with automated assessments and feedback. |
-
-## Subscription
-| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
-|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Hiretual Pro**  | [Hiretual](https://www.hiretual.com)                | Advanced AI recruitment platform with sourcing, candidate engagement, and analytics. |
-| **Jobscan Premium** | [Jobscan](https://www.jobscan.co)                   | Unlocks additional features for resume matching and job search optimization with premium plan. |
-| **Rezi Premium**  | [Rezi](https://www.rezi.ai)                         | Access to AI-driven resume feedback and customization options with a premium subscription. |
-| **LinkedIn Premium** | [LinkedIn](https://www.linkedin.com)               | Paid version offers advanced AI features for job search and networking opportunities. |
-| **Hired**         | [Hired](https://www.hired.com)                      | AI-driven recruitment platform for tech and sales professionals, with premium matching and job opportunities. |
-| **ZipRecruiter**  | [ZipRecruiter](https://www.ziprecruiter.com)        | Job search platform powered by AI with advanced job recommendations and hiring tools. |
-| **Workable**      | [Workable](https://www.workable.com)                | AI-powered recruiting and applicant tracking system with premium options.      |
-| **Vervoe Premium** | [Vervoe](https://www.vervoe.com)                    | Unlocks advanced AI-powered skill assessment features for employers and job seekers. |
-| **Greenhouse**    | [Greenhouse](https://www.greenhouse.io)             | AI-powered recruiting platform with advanced applicant tracking and analytics.  |
-| **Leverage**      | [Leverage](https://www.leverage.com)                | AI recruitment tool for talent sourcing, interview scheduling, and candidate engagement. |
-| **SeekOut**       | [SeekOut](https://www.seekout.io)                   | AI-driven talent search and recruitment platform for hiring diverse teams.      |
-| **Textio**        | [Textio](https://www.textio.com)                    | AI-powered writing tool that enhances job descriptions to attract diverse candidates. |
-| **VMock**         | [VMock](https://www.vmock.com)                      | AI resume feedback tool that helps optimize resumes for job applications.        |
-| **The Muse**      | [The Muse](https://www.themuse.com)                  | Career coaching platform with AI recommendations for job seekers and career advice. |
-| **CleverHire**    | [CleverHire](https://www.cleverhire.com)            | AI platform offering career coaching, resume building, and job search services.  |
-| **Koru**          | [Koru](https://www.koru.us)                         | Subscription service for using AI to optimize hiring processes and assess candidates’ strengths. |
-| **Outreach**      | [Outreach](https://www.outreach.io)                 | AI-driven sales recruitment platform for automated outreach and candidate management. |
-| **HireVue Pro**   | [HireVue](https://www.hirevue.com)                   | Premium access to HireVue’s AI-driven video interviewing platform with detailed analytics and candidate insights. |
-| **Jobvite**       | [Jobvite](https://www.jobvite.com)                  | AI-powered applicant tracking system with premium options for optimizing hiring pipelines. |
-| **TalentSonar**   | [TalentSonar](https://www.talentsonar.com)           | AI-powered recruiting platform focused on improving diversity and candidate engagement. |
-
-
-# Plagiarism Checker Tools
-## Free 
-| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
-|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Quetext**      | [Quetext](https://www.quetext.com)                  | Free plagiarism checker with a simple interface, offers basic checks with limited word count. |
-| **Plagscan**     | [Plagscan](https://www.plagscan.com)                | Plagiarism detection tool offering a limited free version to check small amounts of text. |
-| **Plagiarism Checker (Small SEO Tools)** | [Small SEO Tools](https://smallseotools.com/plagiarism-checker/) | A free tool to check plagiarism by pasting text or uploading documents. |
-| **Duplichecker** | [Duplichecker](https://www.duplichecker.com)        | Free plagiarism detection tool with daily checks for small amounts of text (1000 words). |
-| **Plagiarism Checker by PrePostSEO** | [PrePostSEO](https://www.prepostseo.com/plagiarism-checker) | Offers a free plagiarism checker with a simple interface for content verification. |
-| **PaperRater**   | [PaperRater](https://www.paperrater.com)            | Free plagiarism checker and grammar checker for students and writers. |
-| **PlagiarismDetector** | [Plagiarism Detector](https://plagiarismdetector.net) | A simple free plagiarism checker for small documents. |
-| **Search Engine Reports Plagiarism Checker** | [Search Engine Reports](https://searchenginereports.net/plagiarism-checker) | Free tool with limited checks to scan content for plagiarism. |
-| **PrePostSEO Plagiarism Checker** | [PrePostSEO](https://www.prepostseo.com/plagiarism-checker) | Free tool with a limit on words per search, effective for quick plagiarism checks. |
-| **Scribbr**      | [Scribbr](https://www.scribbr.com/plagiarism-checker/) | Offers a free plagiarism checker with basic analysis and suggestions for citation. |
-
-
-## Subscription
-| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
-|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Turnitin**     | [Turnitin](https://www.turnitin.com)                | Industry-leading plagiarism detection tool used by universities and publishers. |
-| **Copyscape**    | [Copyscape](https://www.copyscape.com)              | Premium plagiarism checker for websites and content with detailed reports. |
-| **Grammarly**    | [Grammarly](https://www.grammarly.com)              | Offers a plagiarism checker as part of its premium subscription, including citation suggestions. |
-| **Unicheck**     | [Unicheck](https://unicheck.com)                   | Professional plagiarism detection service with integrations for educational institutions. |
-| **Plagiarism Checker X** | [Plagiarism Checker X](https://plagiarismcheckerx.com) | Paid plagiarism tool offering in-depth plagiarism reports and compatibility with multiple file formats. |
-| **Scribbr**      | [Scribbr](https://www.scribbr.com/plagiarism-checker/) | Premium plagiarism checker with advanced scanning capabilities and detailed reports. |
-| **Quetext (Pro)**| [Quetext](https://www.quetext.com)                  | Pro version offers extended plagiarism detection, with unlimited checks and more advanced features. |
-| **DupliChecker (Premium)** | [DupliChecker](https://www.duplichecker.com) | Paid version removes word limit restrictions and offers more advanced plagiarism reports. |
-| **Plagscan (Paid)** | [Plagscan](https://www.plagscan.com)              | Subscription-based tool for in-depth plagiarism detection and detailed reports for institutions and businesses. |
-| **iThenticate**  | [iThenticate](https://www.ithenticate.com)          | Plagiarism checker primarily used by publishers, researchers, and academics to scan scholarly work. |
-
