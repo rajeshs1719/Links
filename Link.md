@@ -1,5 +1,4 @@
-
-# AI for Image generation
+# AI for Image Generation
 | **Tool**         | **Website/Link**                                   | **Description**                                                                 |
 |------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
 | **DALL·E**       | [OpenAI DALL·E](https://openai.com/dall-e)          | AI-powered image generation tool that creates visuals based on text descriptions.|
@@ -8,8 +7,7 @@
 | **Runway**       | [Runway ML](https://runwayml.com)                   | AI-powered tool for creative image generation, editing, and video production.    |
 | **NightCafe**    | [NightCafe](https://creator.nightcafe.studio)      | Create AI-generated artwork using different neural networks and styles.         |
 
-
-# Ai for content Creation
+# AI for Content Creation
 | **Tool**         | **Website/Link**                                   | **Description**                                                                 |
 |------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
 | **ChatGPT**      | [ChatGPT](https://chat.openai.com)                  | AI-powered writing assistant for text generation, answering questions, and brainstorming ideas.|
@@ -42,7 +40,10 @@
 | **Clearscore**   | [ClearScore](https://www.clearscore.com)            | AI-driven credit score and financial management service.                        |
 
 # Website for Job Related
-
 | **Tool**         | **Website/Link**                                   | **Description**                                                                 |
 |------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-|**Final Round Ai**| [Final Round AI](https://www.finalroundai.com/)    | Online interview, answering the question|
+| **Final Round AI**| [Final Round AI](https://www.finalroundai.com/)     | Online interview preparation platform with AI-powered mock interviews and feedback. |
+| **Jobscan**      | [Jobscan](https://www.jobscan.co)                   | AI-driven resume optimization and job application tools for job seekers.       |
+| **Rezi**         | [Rezi](https://www.rezi.ai)                        | AI-powered resume builder with personalized feedback for better job applications. |
+| **LinkedIn**     | [LinkedIn](https://www.linkedin.com)                | Professional networking platform with AI-powered job search and networking recommendations. |
+
