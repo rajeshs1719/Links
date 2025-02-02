@@ -41,3 +41,8 @@
 | **YNAB**         | [YNAB](https://www.youneedabudget.com)              | Budgeting app that leverages AI to suggest and optimize your personal financial plans.|
 | **Clearscore**   | [ClearScore](https://www.clearscore.com)            | AI-driven credit score and financial management service.                        |
 
+# Website for Job Related
+
+| **Tool**         | **Website/Link**                                   | **Description**                                                                 |
+|------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+|**Final Round Ai**| [Final Round AI](https://www.finalroundai.com/)    | Online interview, answering the question|
