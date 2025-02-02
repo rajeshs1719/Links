@@ -1,6 +1,7 @@
 <details>
   <summary><h1>AI for Image Generation</h1></summary>
   <h3>Free</h3>
+ <h3>Free</h3>
   <table>
     <thead>
       <tr>
@@ -109,66 +110,6 @@
         <td><strong>Runway’s Stable Diffusion</strong></td>
         <td><a href=" https://runwayml.com/stable-diffusion">Runway’s Stable Diffusion</a></td>
         <td>Use Stable Diffusion’s text-to-image model. Free to try with limitations.  </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <h3>Subscription</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Tool</th>
-        <th>Website/Link</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>DALL·E 2 (Paid)</strong></td>
-        <td><a href="https://openai.com/dall-e">OpenAI DALL·E 2</a></td>
-        <td>Full access to OpenAI’s DALL·E 2 with more credits and higher-resolution images.</td>
-      </tr>
-      <tr>
-        <td><strong>MidJourney</strong></td>
-        <td><a href="https://www.midjourney.com">MidJourney</a></td>
-        <td>A creative tool that allows users to generate high-quality images from text prompts. Subscription-based.</td>
-      </tr>
-      <!-- Add more tools here -->
-    </tbody>
-  </table>
-
-</details>
-<details>
-  <summary><h1>AI for Image Generation</h1></summary>
-  <h3>Free</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Tool</th>
-        <th>Website/Link</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>DALL·E 2</strong></td>
-        <td><a href="https://openai.com/dall-e">OpenAI DALL·E</a></td>
-        <td>AI that generates images from text descriptions. Offers a free tier with limited credits.</td>
-      </tr>
-      <tr>
-        <td><strong>Craiyon</strong></td>
-        <td><a href="https://www.craiyon.com">Craiyon</a></td>
-        <td>A free, open-source version of DALL·E 2. Generates images from text prompts.</td>
-      </tr>
-      <tr>
-        <td><strong>DeepAI Text to Image</strong></td>
-        <td><a href="https://deepai.org/machine-learning-model/text2img">DeepAI Text to Image</a></td>
-        <td>Text-to-image generator that allows users to create unique images using AI. </td>
-      </tr>
-      <tr>
-        <td><strong>Artbreeder</strong></td>
-        <td><a href="https://www.artbreeder.com">Artbreeder</a></td>
-        <td>Allows users to create and remix images through AI blending, mainly focused on portraits and landscapes.</td>
       </tr>
     </tbody>
   </table>
