@@ -1,6 +1,5 @@
 <details>
-  <h1>AI for Image Generation</h1>
-
+  <summary><h1>AI for Image Generation</h1></summary>
   <h3>Free</h3>
   <table>
     <thead>
