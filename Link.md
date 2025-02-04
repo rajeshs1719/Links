@@ -672,3 +672,24 @@
 | **Buxfer**       | [Buxfer](https://www.buxfer.com)                    | AI-powered budgeting and financial planning tool with shared account features for families. |
 | **SmartAssets**  | [SmartAssets](https://www.smartasset.com)           | AI-driven platform offering personalized advice on retirement, taxes, loans, and more. |
 | **Ellevest**     | [Ellevest](https://www.ellevest.com)                | Investment platform specifically for women, using AI to tailor financial plans and investments. |
+
+
+<details>
+  <summay><h1>Some Useful link</h1></summay>
+  <table>
+    <thead>
+      <tr>
+        <th>Tool</th>
+        <th>Wesbite/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Heyform</td>
+        <td href="https://heyform.net/">Heyform</td>
+        <td>Used for interactive form filling</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
