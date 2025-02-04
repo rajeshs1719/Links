@@ -690,6 +690,11 @@
         <td><a href="https://heyform.net/">Heyform</td>
         <td>Used for interactive form filling</td>
       </tr>
+      <tr>
+        <td>SciSpace</td>
+        <td><a href="https://typeset.io/">SciSpace</td>
+        <td>Contains tools used for researcher, "Chat with PDF", "Ai writer","Literture review"</td>
+      </tr>
     </tbody>
   </table>
 </details>
