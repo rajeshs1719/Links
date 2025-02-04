@@ -687,7 +687,7 @@
     <tbody>
       <tr>
         <td>Heyform</td>
-        <td href="https://heyform.net/">Heyform</td>
+        <td><a href="https://heyform.net/">Heyform</td>
         <td>Used for interactive form filling</td>
       </tr>
     </tbody>
