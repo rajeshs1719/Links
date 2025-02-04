@@ -675,7 +675,7 @@
 
 
 <details>
-  <summay><h1>Some Useful link</h1></summay>
+  <summary><h1>Some Useful link</h1></summary>
   <table>
     <thead>
       <tr>
