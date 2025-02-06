@@ -1552,6 +1552,3 @@
     </table>
 </details>
 
-1st: https://www.sejda.com/
-2nd: 
-3rd: 
