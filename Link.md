@@ -698,3 +698,22 @@
     </tbody>
   </table>
 </details>
+
+
+<details>
+<summary><h1>Railway</h1></summary>
+<>table
+<thead>
+      <tr>
+        <th>Tool</th>
+        <th>Wesbite/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+<tr>
+<td>Rail Track</td>
+<td><a href="https://enquiry.indianrail.gov.in/mntes/">Live Track</td>
+<td>Live track by IRCTC and platform number</td>
+</tr>
+</table>
+</details>
