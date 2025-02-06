@@ -1497,7 +1497,7 @@
 <td>Live track by IRCTC and platform number</td>
 </tr>
 </table>
-
+</details>
 <!--------------------------------------------------------------------------PPT Tools------------------------------------------------------------------->
 <details>
 <summary><h1>PPT Tools</h1></summary>
