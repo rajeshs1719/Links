@@ -702,7 +702,7 @@
 
 <details>
 <summary><h1>Railway</h1></summary>
-<>table
+<table>
 <thead>
       <tr>
         <th>Tool</th>
