@@ -1546,7 +1546,7 @@
         </tr>
         <tr>
             <td>Canva</td>
-            <td><a href=" https://www.canva.com">Canva</td>
+            <td><a href="https://www.canva.com">Canva</td>
             <td>Used to edit PDF</td>
         </tr>
     </table>
