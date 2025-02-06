@@ -1497,4 +1497,58 @@
 <td>Live track by IRCTC and platform number</td>
 </tr>
 </table>
+
+<!--------------------------------------------------------------------------PPT Tools------------------------------------------------------------------->
+<details>
+<summary><h1>PPT Tools</h1></summary>
+<table>
+<thead>
+      <tr>
+        <th>Tool</th>
+        <th>Wesbite/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+<tr>
+<td>MagicSlieds</td>
+<td><a href="https://www.magicslides.app/">MagicSlieds</td>
+<td>Used to convert any PDF, Text, youtube, DOCX into PPT</td>
+</tr>
+</table>
 </details>
+
+  
+  <!--------------------------------------------------------------------------PDF Tools------------------------------------------------------------------->
+<details>
+<summary><h1>PDF Tools</h1></summary>
+<table>
+<thead>
+      <tr>
+        <th>Tool</th>
+        <th>Wesbite/Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+<tr>
+<td>Sejda</td>
+<td><a href=" https://www.sejda.com/">Sejda</td>
+<td>Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more</td>
+</tr>
+<tr>
+<td>Sejda</td>
+<td><a href=" https://www.sejda.com/">Sejda</td>
+<td>Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more</td>
+</tr>
+<tr>
+<td>PDF Escape</td>
+<td><a href="https://www.pdfescape.com/">PDF Escape
+</td>
+<td>Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more</td>
+</tr>
+</table>
+</details>
+
+
+1st: https://www.sejda.com/
+2nd: https://www.pdfescape.com
+3rd: https://www.canva.com
