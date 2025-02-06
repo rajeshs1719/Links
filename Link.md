@@ -1531,12 +1531,12 @@
     </thead>
 <tr>
 <td>Sejda</td>
-<td><a href=" https://www.sejda.com/">Sejda</td>
+<td><a href="https://www.sejda.com/">Sejda</td>
 <td>Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more</td>
 </tr>
 <tr>
 <td>Sejda</td>
-<td><a href=" https://www.sejda.com/">Sejda</td>
+<td><a href="https://www.sejda.com/">Sejda</td>
 <td>Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more</td>
 </tr>
 <tr>
