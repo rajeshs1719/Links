@@ -952,8 +952,6 @@
       </tr>
 </tbody>
 </table>
-<details>
-<summary><h1>Plagiarism Checker Tools</h1></summary>
 
 <h2>Subscription</h2>
 <table>
