@@ -65,9 +65,14 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
+            padding: 10px;
+            width: 100%;
         }
-        details summary h2{
-            margin: 10px;
+        details summary h2 {
+            margin: 0;
+            flex-grow: 1;
+            text-align: left;
+            font-size: 18px;
         }
         details summary:hover {
             background: #0056b3;
@@ -79,6 +84,47 @@
 
         details table {
             margin-top: 10px;
+        }
+         @media (max-width: 768px) {
+            body {
+                margin: 5px;
+                padding: 5px;
+            }
+        
+            table {
+                display: block;
+                width: 100%;
+            }
+        
+            th, td {
+                padding: 8px;
+                font-size: 14px;
+            }
+        
+            details summary {
+                font-size: 16px;
+                padding: 8px;
+            }
+        
+            details summary h2 {
+                font-size: 16px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            details summary {
+                font-size: 14px;
+                padding: 6px;
+            }
+        
+            details summary h2 {
+                font-size: 14px;
+            }
+        
+            th, td {
+                padding: 6px;
+                font-size: 12px;
+            }
         }
     </style>
 </head>
