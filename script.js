@@ -242,29 +242,29 @@ const Tools = {
     ],
     "Some Useful link": [
         ["Heyform", "https://heyform.net/", "Used for interactive form filling."],
-        ["SciSpace", "https://typeset.io/", "Contains tools used for researchers, including 'Chat with PDF', 'AI Writer', and 'Literature Review'."]    
+        ["SciSpace", "https://typeset.io/", "Contains tools used for researchers, including 'Chat with PDF', 'AI Writer', and 'Literature Review'."]
     ],
-    "Railway":[
-        ['Rail Track',"https://enquiry.indianrail.gov.in/mntes/",'Live track by IRCTC and platform number']
+    "Railway": [
+        ['Rail Track', "https://enquiry.indianrail.gov.in/mntes/", 'Live track by IRCTC and platform number']
     ],
-    "PPT Tool":[
-        ["MagicSlieds","https://www.magicslides.app/","Used to convert any PDF, Text, youtube, DOCX into PPT"],
-        ["PlusDocs","https://www.plusdocs.com/","Revolutionize presentations with high-quality slides and seamless Al Integration for PowerPoint and Google Slides."],
-        ['Introducing Gamma',"https://gamma.app/","Effortlessly create presentations, documents, and websites. No design or coding needed."],
-        ['Decktopus','https://www.decktopus.com/','The Al-powered tool that auto-generates layouts, designs, and content. Perfect for effortless presentations.'],
-        ['Pop AI','https://www.popai.pro','Quickly create stunning presentations and documents with Al.'],
-        ['SlideSpeak','https://slidespeak.co/','Just upload a Word or PDF, and let SlideSpeak transform your content into presentation.'],
-        ['Canva','https://www.canva.com/presentations/','Design, present, and inspire with Canva Presentations'],
-        ['SlidesAl','https://www.slidesai.io/','Turn any text into stunning slides instantly with this Al-powered tool. Save time and effort.'],
-        ['Slidebean','https://slidebean.com/','Create powerful presentations for startups in minutes with this Al-powered platform.'],
-        ['Pitch','https://pitch.com/','The fastest way for teams to create and share beautiful presentations that drive results'],
-        ['DesignerBot','https://www.beautiful.ai/ai-presentations','Your creative partner for quick slide design. Brainstorm ideas and generate texts and images in a snap.'],
-        ['Sendsteps','https://www.sendsteps.com/en/','Create interactive presentations IOX faster with Al handling all the work.']
+    "PPT Tool": [
+        ["MagicSlieds", "https://www.magicslides.app/", "Used to convert any PDF, Text, youtube, DOCX into PPT"],
+        ["PlusDocs", "https://www.plusdocs.com/", "Revolutionize presentations with high-quality slides and seamless Al Integration for PowerPoint and Google Slides."],
+        ['Introducing Gamma', "https://gamma.app/", "Effortlessly create presentations, documents, and websites. No design or coding needed."],
+        ['Decktopus', 'https://www.decktopus.com/', 'The Al-powered tool that auto-generates layouts, designs, and content. Perfect for effortless presentations.'],
+        ['Pop AI', 'https://www.popai.pro', 'Quickly create stunning presentations and documents with Al.'],
+        ['SlideSpeak', 'https://slidespeak.co/', 'Just upload a Word or PDF, and let SlideSpeak transform your content into presentation.'],
+        ['Canva', 'https://www.canva.com/presentations/', 'Design, present, and inspire with Canva Presentations'],
+        ['SlidesAl', 'https://www.slidesai.io/', 'Turn any text into stunning slides instantly with this Al-powered tool. Save time and effort.'],
+        ['Slidebean', 'https://slidebean.com/', 'Create powerful presentations for startups in minutes with this Al-powered platform.'],
+        ['Pitch', 'https://pitch.com/', 'The fastest way for teams to create and share beautiful presentations that drive results'],
+        ['DesignerBot', 'https://www.beautiful.ai/ai-presentations', 'Your creative partner for quick slide design. Brainstorm ideas and generate texts and images in a snap.'],
+        ['Sendsteps', 'https://www.sendsteps.com/en/', 'Create interactive presentations IOX faster with Al handling all the work.']
     ],
-    "PDF Tools":[
-        ['Sejda','https://www.sejda.com/','Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more'],
-        ['PDFEscape','https://www.pdfescape.com','Edit PDF Files, Annotate PDF Documents, Fill Out PDF Forms,Create Basic PDF Forms,Password Protect PDF Files,Share Documents Online,View PDF Files'],
-        ['Canva','https://www.canva.com/pdf-editor/',"Transform PDF documents to make them more visual and compelling with Canva's free online PDF editor, designed for seamless collaboration. Or simply make that last-minute tweak!"],
+    "PDF Tools": [
+        ['Sejda', 'https://www.sejda.com/', 'Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more'],
+        ['PDFEscape', 'https://www.pdfescape.com', 'Edit PDF Files, Annotate PDF Documents, Fill Out PDF Forms,Create Basic PDF Forms,Password Protect PDF Files,Share Documents Online,View PDF Files'],
+        ['Canva', 'https://www.canva.com/pdf-editor/', "Transform PDF documents to make them more visual and compelling with Canva's free online PDF editor, designed for seamless collaboration. Or simply make that last-minute tweak!"],
     ],
 }
 
@@ -296,3 +296,7 @@ for (let category in Tools) {
 }
 
 document.body.innerHTML = Details
+const themeButton = document.getElementById('toggle-theme');
+themeButton.addEventListener('click', () => {
+    document.body.classList.toggle('light-mode');
+});
