@@ -295,8 +295,9 @@ const Tools = {
     ],
     "GitHub Profile Editor":[
         ["gprm","https://gprm.itsvg.in/","create a dynamic and eye-catching README for your GitHub profile"],
-        ["GitHubProfile Generator",'https://githubprofile.com/','it is also used to generate dynamic profile']
-    ]
+        ["GitHubProfile Generator",'https://githubprofile.com/','it is also used to generate dynamic profile'],
+        ["Profile readme generator","https://profile-readme-generator.com/","Another tool used for more attractive and synamic profile creator"],
+    ],
 }
 
 let Details = '';
