@@ -79,7 +79,8 @@
             justify-content: space-between;
             transition: background 0.3s;
         }
-        details summary h2{
+
+        details summary h2 {
             margin: 10px;
         }
 
@@ -87,10 +88,12 @@
             background: var(--secondary-color);
             color: white;
         }
-        .container{
+
+        .container {
             margin: 70px 0;
         }
-        details[open] summary{
+
+        details[open] summary {
             background: var(--secondary-color);
             color: white;
         }
@@ -105,7 +108,22 @@
             box-shadow: 0 4px 8px var(--shadow-dark);
         }
 
-        th, td {
+        /* Make tables responsive */
+        details table {
+            width: 100%;
+            max-width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            background: var(--card-dark);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px var(--shadow-dark);
+            table-layout: fixed;
+            /* Ensures columns adjust evenly */
+        }
+
+        th,
+        td {
             border: 1px solid var(--border-dark);
             padding: 12px;
             text-align: left;
@@ -125,7 +143,8 @@
         td a:hover {
             text-decoration: underline;
         }
-        button{
+
+        button {
             display: block;
         }
     </style>
