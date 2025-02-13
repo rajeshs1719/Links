@@ -294,7 +294,8 @@ const Tools = {
         ['Kaabil Engineer','https://linktr.ee/kaabilengineer','All resource provided by Kaabil Engineer']
     ],
     "GitHub Profile Editor":[
-        ["gprm","https://gprm.itsvg.in/","create a dynamic and eye-catching README for your GitHub profile"]
+        ["gprm","https://gprm.itsvg.in/","create a dynamic and eye-catching README for your GitHub profile"],
+        ["GitHubProfile Generator",'https://githubprofile.com/','it is also used to generate dynamic profile']
     ]
 }
 
