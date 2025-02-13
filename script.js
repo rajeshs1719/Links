@@ -250,18 +250,18 @@ const Tools = {
         ['Rail Track', "https://enquiry.indianrail.gov.in/mntes/", 'Live track by IRCTC and platform number']
     ],
     "PPT Tool": [
-        ["MagicSlieds", "https://www.magicslides.app/", "Used to convert any PDF, Text, youtube, DOCX into PPT"],
-        ["PlusDocs", "https://www.plusdocs.com/", "Revolutionize presentations with high-quality slides and seamless Al Integration for PowerPoint and Google Slides."],
-        ['Introducing Gamma', "https://gamma.app/", "Effortlessly create presentations, documents, and websites. No design or coding needed."],
-        ['Decktopus', 'https://www.decktopus.com/', 'The Al-powered tool that auto-generates layouts, designs, and content. Perfect for effortless presentations.'],
-        ['Pop AI', 'https://www.popai.pro', 'Quickly create stunning presentations and documents with Al.'],
-        ['SlideSpeak', 'https://slidespeak.co/', 'Just upload a Word or PDF, and let SlideSpeak transform your content into presentation.'],
-        ['Canva', 'https://www.canva.com/presentations/', 'Design, present, and inspire with Canva Presentations'],
-        ['SlidesAl', 'https://www.slidesai.io/', 'Turn any text into stunning slides instantly with this Al-powered tool. Save time and effort.'],
-        ['Slidebean', 'https://slidebean.com/', 'Create powerful presentations for startups in minutes with this Al-powered platform.'],
-        ['Pitch', 'https://pitch.com/', 'The fastest way for teams to create and share beautiful presentations that drive results'],
-        ['DesignerBot', 'https://www.beautiful.ai/ai-presentations', 'Your creative partner for quick slide design. Brainstorm ideas and generate texts and images in a snap.'],
-        ['Sendsteps', 'https://www.sendsteps.com/en/', 'Create interactive presentations IOX faster with Al handling all the work.']
+        ["MagicSlides", "https://www.magicslides.app/", "Used to convert any PDF, Text, YouTube, or DOCX into a PPT."],
+        ["PlusDocs", "https://www.plusdocs.com/", "Revolutionize presentations with high-quality slides and seamless AI integration for PowerPoint and Google Slides."],
+        ["Introducing Gamma", "https://gamma.app/", "Effortlessly create presentations, documents, and websites. No design or coding needed."],
+        ["Decktopus", "https://www.decktopus.com/", "The AI-powered tool that auto-generates layouts, designs, and content. Perfect for effortless presentations."],
+        ["Pop AI", "https://www.popai.pro", "Quickly create stunning presentations and documents with AI."],
+        ["SlideSpeak", "https://slidespeak.co/", "Just upload a Word or PDF, and let SlideSpeak transform your content into a presentation."],
+        ["Canva", "https://www.canva.com/presentations/", "Design, present, and inspire with Canva Presentations."],
+        ["SlidesAI", "https://www.slidesai.io/", "Turn any text into stunning slides instantly with this AI-powered tool. Save time and effort."],
+        ["Slidebean", "https://slidebean.com/", "Create powerful presentations for startups in minutes with this AI-powered platform."],
+        ["Pitch", "https://pitch.com/", "The fastest way for teams to create and share beautiful presentations that drive results."],
+        ["DesignerBot", "https://www.beautiful.ai/ai-presentations", "Your creative partner for quick slide design. Brainstorm ideas and generate text and images in a snap."],
+        ["Sendsteps", "https://www.sendsteps.com/en/", "Create interactive presentations 10X faster with AI handling all the work."]
     ],
     "PDF Tools": [
         ['Sejda', 'https://www.sejda.com/', 'Used to PDF editor, compress, delete page, Merge, split, crop, fill & sign, pdf to word and many more'],
