@@ -294,9 +294,28 @@ for (let category in Tools) {
     }
     Details += `</tbody></table></details>`
 }
+window.onload = function () {
+    document.querySelector(".container").innerHTML = Details;
 
-document.body.innerHTML = Details
-const themeButton = document.getElementById('toggle-theme');
-themeButton.addEventListener('click', () => {
-    document.body.classList.toggle('light-mode');
-});
+    const toggleButton = document.getElementById("toggleMode");
+    const body = document.body;
+
+    if (localStorage.getItem("theme") === "light") {
+        body.classList.add("light-mode");
+        toggleButton.textContent = "🌙 Dark Mode";
+    } else {
+        toggleButton.textContent = "☀️ Light Mode";
+    }
+
+    toggleButton.addEventListener("click", () => {
+        body.classList.toggle("light-mode");
+
+        if (body.classList.contains("light-mode")) {
+            toggleButton.textContent = "🌙 Dark Mode";
+            localStorage.setItem("theme", "light");  
+        } else {
+            toggleButton.textContent = "☀️ Light Mode";
+            localStorage.setItem("theme", "dark");  
+        }
+    });
+};
