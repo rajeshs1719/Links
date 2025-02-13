@@ -4,32 +4,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dark/Light Mode Toggle</title>
     <style>
+        /* Default (Dark Mode) */
         :root {
-            --primary-color: #384b5f;
+            --primary-color: #0056b3;
             --secondary-color: #0056b3;
-            --background-light: #f4f4f4;
             --background-dark: #121212;
-            --text-light: #ffffff;
-            --text-dark: #333;
+            --text-dark: #ffffff;
             --card-dark: #1e1e1e;
             --border-dark: #444;
             --shadow-dark: rgba(0, 0, 0, 0.3);
-            --link-color:#007bff;
+            --link-dark: #087efb;
+        }
+
+        /* Light Mode Variables */
+        .light-mode {
+            --background-dark: #f4f4f4;
+            --text-dark: #333;
+            --card-dark: #ffffff;
+            --border-dark: #ccc;
+            --shadow-dark: rgba(0, 0, 0, 0.1);
+            --link-dark: #0056b3;
         }
 
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
             background-color: var(--background-dark);
-            color: var(--text-light);
-            transition: background 0.3s, color 0.3s;
-        }
-
-        .light-mode {
-            background-color: var(--background-light);
             color: var(--text-dark);
+            transition: background 0.3s, color 0.3s;
         }
 
         .toggle-btn {
@@ -46,6 +50,7 @@
             cursor: pointer;
             transition: background 0.3s;
             box-shadow: 0 4px 8px var(--shadow-dark);
+            z-index: 1000;
         }
 
         .toggle-btn:hover {
@@ -54,7 +59,7 @@
 
         details {
             background: var(--card-dark);
-            color: var(--text-light);
+            color: var(--text-dark);
             margin: 10px 0;
             padding: 15px;
             border-radius: 8px;
@@ -67,7 +72,7 @@
             font-weight: bold;
             cursor: pointer;
             background: #b8c1cb;
-            color: rgb(0, 0, 0);
+            color: black;
             border-radius: 5px;
             display: flex;
             align-items: center;
@@ -75,15 +80,17 @@
             transition: background 0.3s;
         }
         details summary h2{
-            margin: 10px 10px;
+            margin: 10px;
         }
 
         details summary:hover {
             background: var(--secondary-color);
-            color: #fff;
+            color: white;
         }
-
-        details[open] summary {
+        .container{
+            margin: 70px 0;
+        }
+        details[open] summary{
             background: var(--secondary-color);
             color: white;
         }
@@ -106,12 +113,11 @@
 
         th {
             background-color: var(--primary-color);
-            color: rgb(255, 255, 255);
-            border: 2px solid black;
+            color: white;
         }
 
         td a {
-            color: var(--link-color);
+            color: var(--link-dark);
             text-decoration: none;
             font-weight: bold;
         }
@@ -119,12 +125,20 @@
         td a:hover {
             text-decoration: underline;
         }
+        button{
+            display: block;
+        }
     </style>
 </head>
 
 <body>
 
+    <button class="toggle-btn" id="toggleMode">🌙 Light Mode</button>
+
+    <div class="container"></div>
+
     <script type="module" src="script.js"></script>
+
 </body>
 
 </html>
