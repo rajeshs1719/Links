@@ -275,13 +275,12 @@ const Tools = {
 
     ],
     "Cheatsheet": [
-        ['SQL Free Resources of cheat Sheet', 'https://drive.google.com/file/d/1PgRlXNVtsaB-p3uT6it4eBIeG-EnOzgR/view?usp=sharing', 'Basic Cheatsheet of SQL'],
-        ['Codepen', 'https://codepen.io/', 'testing and showcasing user-created HTML, CSS and JavaScript code snippets'],
-        ['CSSDeck', 'https://cssdeck.com/', ' to make testcases and share with other people on IRC, forums, StackOverflow, etc. who help you solve your coding problems'],
-        ['CodeMyUi', 'https://codemyui.com/', 'to notify your users about a recent change, a message for them, etc.'],
-        ['OverApi.com', 'https://overapi.com/', 'compiles cheat sheets for various programming languages and technologies, including Python, jQuery, NodeJS, PHP, Java, and more.']
-        ['quickref.me', 'https://quickref.me/index.html', "providing quick references while you're working and giving interviews."],
-
+        ["SQL Free Resources of cheat Sheet", "https://drive.google.com/file/d/1PgRlXNVtsaB-p3uT6it4eBIeG-EnOzgR/view?usp=sharing", "Basic Cheatsheet of SQL"],
+        ["Codepen", "https://codepen.io/", "Testing and showcasing user-created HTML, CSS, and JavaScript code snippets."],
+        ["CSSDeck", "https://cssdeck.com/", "To make test cases and share with other people on IRC, forums, StackOverflow, etc., who help you solve your coding problems."],
+        ["CodeMyUi", "https://codemyui.com/", "To notify your users about a recent change, a message for them, etc."],
+        ["OverApi.com", "https://overapi.com/", "Compiles cheat sheets for various programming languages and technologies, including Python, jQuery, NodeJS, PHP, Java, and more."],
+        ["quickref.me", "https://quickref.me/index.html", "Providing quick references while you're working and giving interviews."]
     ],
     "Interview preparation in language": [
         ['SQL based interview Question', 'https://drive.google.com/file/d/17TRknim7JEAdnPjJr-iSMKwMMaUceFvK/view?usp=sharing', 'Imp SQL interview question with answer'],
