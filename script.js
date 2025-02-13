@@ -292,6 +292,9 @@ const Tools = {
         ['FreshersGram','https://freshersgram.com/?fbclid=PAY2xjawIa4mBleHRuA2FlbQIxMAABpvr2jX0GLz8w5a66OrFGm_PciUZowY9Ujr2SXX3_oH6fpsL7cqNDibayLA_aem_sbd62lpkPPFc_0GuhGSByw','All job updates and course deatils'],
         ['Hiten Codes','https://linktr.ee/hiten.codes','All resource provided by Hiten Codes'],
         ['Kaabil Engineer','https://linktr.ee/kaabilengineer','All resource provided by Kaabil Engineer']
+    ],
+    "GitHub Profile Editor":[
+        ["gprm","https://gprm.itsvg.in/","create a dynamic and eye-catching README for your GitHub profile"]
     ]
 }
 
