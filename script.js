@@ -100,6 +100,9 @@ const Tools = {
         ["Jina AI", "https://www.jina.ai", "AI-powered tool that aids in writing code, debugging, and optimizing algorithms."]
     ],
     "Website for Job Related": [
+        ['Job Portals','https://www.dropbox.com/scl/fi/x9srw4cql9q56g8fgkp3j/Job-Portals.pdf?e=3&fbclid=PAY2xjawIa3xxleHRuA2FlbQIxMAABpq_c7cfF14m_q5c_gM_sbq-_WqedIdtEpoPJGga01i3V2UjyMfDDBKKEzw_aem_NVENuebs9oeRPfmUVj6iNA&mcp_token=eyJwaWQiOjE5MjU4MzQsInNpZCI6MTk1MjQ2MDA5MywiYXgiOiI3NGRlNGQ1N2E4NjJkY2MzNWYxM2Q1MTY0NTY1NzBmYyIsInRzIjoxNzM5NDU2MzkxLCJleHAiOjE3NDE4NzU1OTF9.nEVXz5TEkfNxyb48HS_UtgQLhRYYQDrAio0La03F1h0&rlkey=udjldwph5w56p4l0a5koyi1e0&st=8vikp41q&dl=0','List of 18 job portals'],
+        ['100+ Companies hiring in bangalore','https://docs.google.com/spreadsheets/d/1Mwlg-b53I2oT3HwZg_-BpAYuXb-i4yD7OEbLB3zw0II/htmlview?fbclid=PAY2xjawIa399leHRuA2FlbQIxMAABpq_c7cfF14m_q5c_gM_sbq-_WqedIdtEpoPJGga01i3V2UjyMfDDBKKEzw_aem_NVENuebs9oeRPfmUVj6iNA','100+ companis hiring in different field of ob role'],
+        ['Graduate training program','','List of compnay provide Graduate training program for fresher'
         ["Final Round AI", "https://www.finalroundai.com/", "AI-powered mock interview platform with feedback and prep materials."],
         ["Jobscan", "https://www.jobscan.co", "AI-driven resume optimization and job application tools for job seekers."],
         ["Rezi", "https://www.rezi.ai", "AI-powered resume builder with personalized feedback for job applications."],
@@ -266,6 +269,29 @@ const Tools = {
         ['PDFEscape', 'https://www.pdfescape.com', 'Edit PDF Files, Annotate PDF Documents, Fill Out PDF Forms,Create Basic PDF Forms,Password Protect PDF Files,Share Documents Online,View PDF Files'],
         ['Canva', 'https://www.canva.com/pdf-editor/', "Transform PDF documents to make them more visual and compelling with Canva's free online PDF editor, designed for seamless collaboration. Or simply make that last-minute tweak!"],
     ],
+    "Project Idea and Training":[
+        ['345 Ideas','https://drive.google.com/drive/folders/1VpsrjIM95sEHF7wlNHJ9iLsmIAapQ_m8?usp=sharing','Ideas for Begger, intermediate, advance'],
+        ['50+ ideas','https://drive.google.com/drive/folders/1QoVliRwJa9lk2oE38cgTnIFvDnEehta7?usp=drive_link','Based on HTML, CSS and JS'],
+        ['Placement Material','https://drive.google.com/drive/mobile/folders/1Fqr4QWLOkQm_XXRIXnmCfudfg5R5Q3uU?fbclid=PAY2xjawIa3YBleHRuA2FlbQIxMAABprZE-IGQMNalbCskBJjKWJh4gVkjtevA21Q7LYaXfazdtifJFn8hIoVCig_aem_FACkKnkBxA8qjQ7oYCGO5Q','Covers most of the all placement training materials'],
+        
+    ],
+    "Cheatsheet":[
+        ['SQL Free Resources of cheat Sheet','https://drive.google.com/file/d/1PgRlXNVtsaB-p3uT6it4eBIeG-EnOzgR/view?usp=sharing','Basic Cheatsheet of SQL'],
+        ['Codepen','https://codepen.io/','testing and showcasing user-created HTML, CSS and JavaScript code snippets'],
+        ['CSSDeck','https://cssdeck.com/',' to make testcases and share with other people on IRC, forums, StackOverflow, etc. who help you solve your coding problems'],
+        ['CodeMyUi','https://codemyui.com/','to notify your users about a recent change, a message for them, etc.'],
+        ['OverApi.com','https://overapi.com/','compiles cheat sheets for various programming languages and technologies, including Python, jQuery, NodeJS, PHP, Java, and more.']
+        ['quickref.me','https://quickref.me/index.html',"providing quick references while you're working and giving interviews."],
+        
+    ],
+    "Interview preparation in language":[
+        ['SQL based interview Question','https://drive.google.com/file/d/17TRknim7JEAdnPjJr-iSMKwMMaUceFvK/view?usp=sharing','Imp SQL interview question with answer'],
+        
+    ],
+    "Social Media Guides":[
+        ['FreshersGram','https://freshersgram.com/?fbclid=PAY2xjawIa4mBleHRuA2FlbQIxMAABpvr2jX0GLz8w5a66OrFGm_PciUZowY9Ujr2SXX3_oH6fpsL7cqNDibayLA_aem_sbd62lpkPPFc_0GuhGSByw','All job updates and course deatils'],
+        
+    ]
 }
 
 let Details = '';
