@@ -296,7 +296,7 @@ const Tools = {
         ["Profile readme generator", "https://profile-readme-generator.com/", "Another tool used for more attractive and synamic profile creator"],
     ],
     "LinkedIn Tools":[
-        ["Profile picture maker","https://pfpmaker.com/","Create an awesome profile picture for free"].
+        ["Profile picture maker","https://pfpmaker.com/","Create an awesome profile picture for free"],
         ["Taplio","https://taplio.com/carousel","Create LinkedIn carousel posts for free with AI"],
         ["Recruitment Geek","https://recruitmentgeek.com/tools/linkedin/#gsc.tab=0","For building connection on LinkedIn"],
         ["Careerflow","https://chromewebstore.google.com/detail/careerflow-ai-job-applica/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en-US&utm_source=ext_sidebar","Chrome Exetention for LinkedIn Profile Optimization"],
