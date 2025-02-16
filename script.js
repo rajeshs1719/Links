@@ -295,6 +295,19 @@ const Tools = {
         ["GitHubProfile Generator", 'https://githubprofile.com/', 'it is also used to generate dynamic profile'],
         ["Profile readme generator", "https://profile-readme-generator.com/", "Another tool used for more attractive and synamic profile creator"],
     ],
+    "LinkedIn Tools":[
+        ["Profile picture maker","https://pfpmaker.com/","Create an awesome profile picture for free"].
+        ["Taplio","https://taplio.com/carousel","Create LinkedIn carousel posts for free with AI"],
+        ["Recruitment Geek","https://recruitmentgeek.com/tools/linkedin/#gsc.tab=0","For building connection on LinkedIn"],
+        ["Careerflow","https://chromewebstore.google.com/detail/careerflow-ai-job-applica/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en-US&utm_source=ext_sidebar","Chrome Exetention for LinkedIn Profile Optimization"],
+        ["Chat GPT","https://chatgpt.com/","For generate content"],
+        ["Reaching Out template","https://docs.google.com/document/d/1iqXwtQl1Ni9zkX2w453hXIYZxDb_1hEnPWSH0U1u5fM/edit?tab=t.0","Template to reach the Recruiters on Linkedin"],
+        ["Search Query","https://docs.google.com/document/d/1NsoEPwyhk6ycmSWl-tvxh7tUYFyw-qkok1YTCcszAI8/edit?tab=t.0","LinkedIn job search Query"],
+        ["Connection Notes","https://docs.google.com/document/d/1aS25PBvPgRiiLmQSjPg5TdkzTKcySXSM-qkWFZvDTuM/edit?tab=t.0#heading=h.pfzmq2tpf87i","LinkedIn Connection Notes for Recruiters and Industry Experts"],
+        ["Content Strategy","https://drive.google.com/file/d/1E1c7IAJHP9YIZ89QpudAfbLcEzouz36v/view","Content Strategy for a LinkedIn Profile"],
+        ["Profile Optimisation","https://drive.google.com/file/d/131s_zYbKqqZLXOoJSYSDD8eEG0OlhOOi/view","Profile basic, optimization of headline/title and many more"]
+        
+    ]
 }
 
 let Details = '';
