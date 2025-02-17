@@ -306,7 +306,14 @@ const Tools = {
         ["Connection Notes","https://docs.google.com/document/d/1aS25PBvPgRiiLmQSjPg5TdkzTKcySXSM-qkWFZvDTuM/edit?tab=t.0#heading=h.pfzmq2tpf87i","LinkedIn Connection Notes for Recruiters and Industry Experts"],
         ["Content Strategy","https://drive.google.com/file/d/1E1c7IAJHP9YIZ89QpudAfbLcEzouz36v/view","Content Strategy for a LinkedIn Profile"],
         ["Profile Optimisation","https://drive.google.com/file/d/131s_zYbKqqZLXOoJSYSDD8eEG0OlhOOi/view","Profile basic, optimization of headline/title and many more"]
-        
+    ],
+    "You Tube playlist":[
+        ["Machine Learning Projects","https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6","Unique Machine learning projects"],
+        ["Full stack projects","https://www.youtube.com/playlist?list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN","22 videos of full stack projects with code"],
+        ["Intermediate web developemtn project","https://www.youtube.com/playlist?list=PLasZMtSCguZZrSFtyg_Q-_PIyiNgrPUdL","98 videos project related to web developments with code"],
+        ["Complete App project","https://www.youtube.com/playlist?list=PLUhfM8afLE_OFEGWaRmQFGizcjJyr_89j","App developments projects"],
+        ["Blockchain Projects","https://www.youtube.com/playlist?list=PL5g-9zkOohaHP72df1JO6Jqn1K5mM3rM9","Ideas related to blockchain"],
+        ["Projects for CS","https://www.youtube.com/playlist?list=PLYxteewnPK4Y4hSSZgF2Y1viZ4cxvcveF","577 projects idea for final year"]
     ]
 }
 
