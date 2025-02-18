@@ -314,6 +314,7 @@ const Tools = {
         ["Complete App project","https://www.youtube.com/playlist?list=PLUhfM8afLE_OFEGWaRmQFGizcjJyr_89j","App developments projects"],
         ["Blockchain Projects","https://www.youtube.com/playlist?list=PL5g-9zkOohaHP72df1JO6Jqn1K5mM3rM9","Ideas related to blockchain"],
         ["Projects for CS","https://www.youtube.com/playlist?list=PLYxteewnPK4Y4hSSZgF2Y1viZ4cxvcveF","577 projects idea for final year"]
+        // ["Projects for CS","https://www.youtube.com/playlist?list=PLYxteewnPK4Y4hSSZgF2Y1viZ4cxvcveF","577 projects idea for final year"]
     ]
 }
 
